@@ -1,0 +1,67 @@
+.menu {
+border:solid;
+display:flex;
+justify-content: space-between;
+border-color:yellow;
+font-family: monotype corsiva;
+padding:10px;
+color:whitesmoke;
+background-color: red;
+}
+
+.bodyimg {
+    position: relative;
+    text-align: center;
+    color:white;
+    font-family:Georgia;
+    border:solid;
+    border-color: indigo;
+  }
+
+  .text {
+    position: absolute;
+    top: 20px;
+    left:20px;
+    right:20px;
+    bottom:20px
+    
+  }
+
+  body{
+     
+      background-image:url("bg5.jpg");
+      background-repeat: no-repeat;
+      background-position: center ;
+      background-size: cover;
+      position: relative;
+  }
+
+  .grid {
+    display:flex;
+    border:solid;
+    
+  }
+
+  .origami p{
+    text-align: center;
+    color: black;
+  }
+  .origami img{
+    
+    border:solid;
+    border-radius:50px
+    
+  }
+
+h3 {
+  color: blue;
+}
+
+ol,ul{
+  
+  color: orangered;
+}
+
+
+
+ 
